@@ -1,0 +1,5 @@
+services:
+  restful-booker:
+    image: mwinteringham/restfulbooker:latest
+    ports:
+      - "3001:3001"

@@ -1,0 +1,10 @@
+pytest==8.*
+pytest-xdist
+allure-pytest
+selenium>=4.20
+Appium-Python-Client>=4.0
+requests
+responses
+Faker
+python-dotenv
+locust
